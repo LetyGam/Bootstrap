@@ -4,4 +4,4 @@ Comenzamos con un pequeño ejercicio para conocer bootstrap, que nos daria pie p
 
 ### Vista Previa del Proyecto
 
-![Demo](imagenes/Boots_screen.png)
+![Demo](Boots_screen.png)
